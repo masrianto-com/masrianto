@@ -3,3 +3,5 @@ Rencana Konten
 - Vlog
 - PHP
 - Website
+- Javascript
+  * FrameWork Codeigniter - CI
